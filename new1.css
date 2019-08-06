@@ -1,0 +1,36 @@
+<style >
+   body
+   {
+    font: 10pt Arial, Helvetica, sans-serif;
+    background: #FFFFE0; 
+   }
+   h2 {
+    font-size: 1.6em; 
+    color: #000000; 
+    margin-top: 0; 
+   }
+   #container {
+    width: 700px; /* Ширина слоя */
+    margin: 0 auto; /* Выравнивание по центру */
+    background:#F5FFFA ; /* Цвет фона левой колонки */
+   }
+   #header {
+    font-size: 2.2em; /* Размер текста */
+    text-align: center; /* Выравнивание по центру */
+    padding: 5px; /* Отступы вокруг текста */
+    background: #8fcf9f; /* Цвет фона шапки */
+    color: #ffe; /* Цвет текста */
+   }
+   #sidebar {
+    margin-top: 10px; 
+    width: 110px; /* Ширина слоя */
+    padding: 0 10px; /* Отступы вокруг текста */
+    float: left; /* Обтекание по правому краю */
+   }
+   #content {
+    margin-left: 130px; /* Отступ слева */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ff0 /* Цвет фона правой колонки */
+   }
+   
+  </style>
